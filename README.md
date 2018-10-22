@@ -8,4 +8,4 @@ in addition, i have been trying to write more stuff down, and recently have real
 
 finally, i am hoping to get more comfortable with git/vim and other tools, so i am trying to spend a little more time with them outside of class.
 
-this is an project to document my journey in getting better at doing work
+this is a project to document my journey in getting better at doing work
