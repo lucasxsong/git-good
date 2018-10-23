@@ -1,4 +1,5 @@
 forcing revisions in work
+october 23, 2018
 
 i was lucky enough to create this project during github's recent service outage on october 20th. lucky seems to be a weird way to describe this unfortunate timing, so i will attempt to elaborate what i learned from my experience.
 
